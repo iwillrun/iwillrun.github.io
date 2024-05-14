@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Source Projects
+title: AI 开源项目
 keywords: 开源,open-source,GitHub,开源项目
 description: 开源改变世界。
 permalink: /open-source/
@@ -12,7 +12,7 @@ permalink: /open-source/
 <section class="container">
     <header class="text-center">
         <h1>Open Source Projects</h1>
-        <p class="lead">I have <span class="repo-count">{{ sorted_repos.size }}</span> projects on Github</p>
+        <p class="lead">推荐的 <span class="repo-count">{{ sorted_repos.size }}</span>个AI 开源项目</p>
     </header>
     <div class="repo-list">
         <!-- Check here for github metadata -->
