@@ -123,35 +123,35 @@ mindmap2: false
   <p>This is a test post.</p>
 </body>
 </html>
-```
--提交这个文件。
+```-提交这个文件。
 
 3. 启用 GitHub Pages
 在你的仓库页面，点击 "Settings"。
 向下滚动到 "GitHub Pages" 部分。
 在 "Source" 下拉菜单中选择 main 分支。
 点击 "Save"。
+
 4. 自定义你的 Jekyll 博客
 安装 Jekyll 到你的本地机器（如果你还没有安装的话）。
 将你的仓库克隆到本地。
 使用 Jekyll 的命令行工具来创建新的页面、文章和布局。
->jekyll new myblog
->cd myblog
->jekyll serve
-
+jekyll new myblog
+cd myblog jekyll
+serve
 这将启动一个本地服务器，你可以在浏览器中预览你的网站。
-6. 发布你的博客
-当你对博客的本地预览满意后，将更改推送到你的 GitHub 仓库。
->git add
->git commit -m "Initial commit"
->git push origin main
 
+5. 发布你的博客
+当你对博客的本地预览满意后，将更改推送到你的 GitHub 仓库。
+git add
+git commit -m "Initial commit"
+git push origin main
 几分钟后，你的网站应该就可以通过 https://username.github.io 访问了。
-7. 持续更新和维护
+
+6. 持续更新和维护
 继续添加新的文章和页面，使你的博客更加丰富。
 定期更新 Jekyll 版本和主题以保持最佳性能。
 
-最简单的方法是，可以直接克隆我的项目，然后按照教程进行简单修改就行了。[创建一个和我一样的博客教程](https://github.com/iwillrun/iwillrun.github.io/blob/master/README.md)
+**最简单的方法是，可以直接克隆我的项目，然后按照教程进行简单修改就行了。[创建一个和我一样的博客教程](https://github.com/iwillrun/iwillrun.github.io/blob/master/README.md)**
 
 # 博客规划
 ## 首页
