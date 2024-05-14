@@ -74,29 +74,29 @@ navs:
 
   -
     href: /categories/
-    label: 博客
+    label: 分类
 
   -
-    href: /archives/
-    label: 应用
-    mobile-hidden: true
+#    href: /archives/
+#    label: 应用
+#    mobile-hidden: true
 
   -
     href: /open-source/
-    label: 工具
+    label: 开源项目
     mobile-hidden: true
 
   -
     href: /fragments/
-    label: 教程
+    label: AI教程
 
   -
     href: /wiki/
-    label: 维基
+    label: AI百科
 
   -
     href: /links/
-    label: 链接
+    label: AI导航
     mobile-hidden: true
 
   -
