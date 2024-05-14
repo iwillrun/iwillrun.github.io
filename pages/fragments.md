@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Fragments
-description: fragments 索引页
-keywords: fragments
+title: AI教程集合
+description: AI教程集合 索引页
+keywords: fragments，AI教程
 comments: false
 mermaid: false
 menu: 片段
 permalink: /fragments/
 ---
 
-> 零散的知识，简短的观点，作为片段汇集于此。
+> AI领域实用教程集合。
 
 {% assign tagliststr = '' %}
 {% for item in site.fragments %}
