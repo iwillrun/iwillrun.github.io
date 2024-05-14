@@ -83,6 +83,7 @@ mindmap2: false
 - **简介**: 文档管理平台，适合电子书格式的博客。
 - **官网**: [docs.gitbook.com](http://docs.gitbook.com)
 - **资源**:网站案例：[docs.gitbook.com](docs.gitbook.com)
+
 ### Docsify（#02）
 - **简介**: 无需构建，直接发布 Markdown 的文档网站生成器。
 - **官网**: [docsify.js.org](http://docsify.js.org)
