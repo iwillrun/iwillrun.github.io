@@ -1,19 +1,20 @@
-- name: Software Engineer Keywords
+- name: AI 产品经理
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - AI
+      - LLMs
+      - promt engineering
+      - AI agent
+      - LLM OS
 
-- name: Mobile Developer Keywords
+- name: 语音产品经理
   keywords:
-      - Android
-      - Reverse Engineering
+      - 语音助手设计
+      - 语音全栈技术
+      - 用户体验
 
-- name: Windows Developer Keywords
+- name: 个人创作者
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - AI agent自动化流程
+      - comfyflow文生图
+      - 信息知识分享
+      - 内容运营
