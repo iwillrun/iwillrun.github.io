@@ -123,7 +123,7 @@ mindmap2: false
   <p>This is a test post.</p>
 </body>
 </html>
-
+```
 提交这个文件。
 
 3. 启用 GitHub Pages
@@ -135,18 +135,19 @@ mindmap2: false
 安装 Jekyll 到你的本地机器（如果你还没有安装的话）。
 将你的仓库克隆到本地。
 使用 Jekyll 的命令行工具来创建新的页面、文章和布局。
-jekyll new myblog
+`jekyll new myblog
 cd myblog
 jekyll serve
+`
 这将启动一个本地服务器，你可以在浏览器中预览你的网站。
-5. 发布你的博客
+6. 发布你的博客
 当你对博客的本地预览满意后，将更改推送到你的 GitHub 仓库。
 `git add
 git commit -m "Initial commit"
 git push origin main
 `
 几分钟后，你的网站应该就可以通过 https://username.github.io 访问了。
-6. 持续更新和维护
+7. 持续更新和维护
 继续添加新的文章和页面，使你的博客更加丰富。
 定期更新 Jekyll 版本和主题以保持最佳性能。
 
