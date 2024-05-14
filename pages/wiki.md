@@ -1,15 +1,15 @@
 ---
 layout: wiki
-title: Wiki
-description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+title: AI领域知识图谱
+description: AI领域知识体系大全
+keywords: 维基, AI,AI知识图谱
 comments: false
 copyright: false
 menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+AI成长之路，从这里开始
 
 {% case site.components.wiki.view %}
 
