@@ -139,7 +139,8 @@ mindmap2: false
 ```
 jekyll new myblog
 cd myblog jekyll
-serve```
+serve
+```
 这将启动一个本地服务器，你可以在浏览器中预览你的网站。
 
 5. 发布你的博客
@@ -147,7 +148,8 @@ serve```
 ```
 git add
 git commit -m "Initial commit"
-git push origin main```
+git push origin main
+```
 几分钟后，你的网站应该就可以通过 https://username.github.io 访问了。
 
 6. 持续更新和维护
