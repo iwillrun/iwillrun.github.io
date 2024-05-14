@@ -127,7 +127,7 @@ mindmap2: false
 </body>
 </html>
 ```
--提交这个文件。
+- 提交这个文件。
 
 3. 启用 GitHub Pages
 在你的仓库页面，点击 "Settings"。
