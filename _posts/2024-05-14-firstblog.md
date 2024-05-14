@@ -124,7 +124,7 @@ mindmap2: false
 </body>
 </html>
 ```
-提交这个文件。
+-提交这个文件。
 
 3. 启用 GitHub Pages
 在你的仓库页面，点击 "Settings"。
@@ -135,17 +135,17 @@ mindmap2: false
 安装 Jekyll 到你的本地机器（如果你还没有安装的话）。
 将你的仓库克隆到本地。
 使用 Jekyll 的命令行工具来创建新的页面、文章和布局。
-`jekyll new myblog
-cd myblog
-jekyll serve
-`
+>jekyll new myblog
+>cd myblog
+>jekyll serve
+
 这将启动一个本地服务器，你可以在浏览器中预览你的网站。
 6. 发布你的博客
 当你对博客的本地预览满意后，将更改推送到你的 GitHub 仓库。
-`git add
-git commit -m "Initial commit"
-git push origin main
-`
+>git add
+>git commit -m "Initial commit"
+>git push origin main
+
 几分钟后，你的网站应该就可以通过 https://username.github.io 访问了。
 7. 持续更新和维护
 继续添加新的文章和页面，使你的博客更加丰富。
@@ -154,3 +154,16 @@ git push origin main
 最简单的方法是，可以直接克隆我的项目，然后按照教程进行简单修改就行了。[创建一个和我一样的博客教程](https://github.com/iwillrun/iwillrun.github.io/blob/master/README.md)
 
 # 博客规划
+## 首页
+- 分享AI领域高质量的**新闻**：使用AI agent动态获取全网AI领域重大事件，优中选优，打破信息壁垒。
+- 分享AI领域高质量的**博客**：了解AI领域最重要的技术应用和大佬们的顶级思考。
+- 分享AI领域高质量的**AI产品**：了解哪些AI产品获得了成功？以及为什么成功？还能一直成功下去吗？
+- 分享AI领域高质量的**商业案例**：探索AI领域未来的赛道机会，为创业者们提供方向。
+## 开源项目
+- 分享最顶级的AI 开源项目，改写生产力。
+## AI教程
+- 分享AI领域实用教程，探索AI在各个行业和工作上的实际应用，掌握这些来扩大自己的小金库。
+## AI百科
+- 搭建AI领域知识图谱，实现AI ALL IN ONE，让所有人在这里开始了解AI，学习AI，使用AI
+## AI导航
+- 从这里，去往AI领域的各个顶级站点。
