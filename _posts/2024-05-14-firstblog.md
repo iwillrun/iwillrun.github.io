@@ -96,6 +96,7 @@ mindmap2: false
 ## 怎么选择适合自己的框架？
 1.如果想做的漂亮，有丰富的图文，华丽的界面。那么就用**WordPress**。
 **缺点**:需要自己部署服务器，使用成本和技术要求高。
+
 2.如果想简单搭建个人博客，喜欢干净简洁的界面，只专注于内容本身，那么使用**Jekyll**。
 **优点**:可以直接使用GitHub pages搭建个人博客，不需要自己有服务器，有现成的模板可以开箱即用。
 
@@ -111,7 +112,7 @@ mindmap2: false
 - 在你的仓库中，点击 "Create new file" 创建一个名为 `index.html` 的文件。
 - 输入以下内容来初始化你的 Jekyll 项目：
 
-```html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -121,7 +122,7 @@ mindmap2: false
   <h1>Welcome to my blog!</h1>
   <p>This is a test post.</p>
 </body>
-</html>```
+</html>
 
 提交这个文件。
 
