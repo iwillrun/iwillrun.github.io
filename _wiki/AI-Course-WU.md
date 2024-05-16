@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: 吴恩达-深度学习全课程
-cate1: AI系统学习课程
+cate1: AI课程-系统学习课程
 cate2: 1-吴恩达AI学习课程系列
 description: 吴恩达深度学习全课程
 keywords: AI教程, 吴恩达，深度学习，机器学习，AI视频教程，AI推荐书籍
