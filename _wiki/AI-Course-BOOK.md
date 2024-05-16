@@ -34,15 +34,12 @@ https://mooc.study.163.com/university/deeplearning_ai#/c
 “我们将帮助你掌握深度学习，理解如何应用深度学习，在人工智能业界开启你的职业生涯。”吴恩达在课程页面中提到。
 
 
-
-本课程视频教程地址（B站）：https://www.bilibili.com/video/BV16r4y1Y7jv
-
 [笔记网站(适合手机阅读)](http://www.ai-start.com)
 
 
 
 
-
+## 本课程视频教程地址（B站）：https://www.bilibili.com/video/BV16r4y1Y7jv
 
 # 深度学习笔记目录
 
