@@ -2,7 +2,7 @@
 layout: wiki
 title: 向量空间
 cate1: AI基础-数学
-cate2: 线性代数
+cate2: 1-线性代数
 description: AI基础数学-向量空间
 keywords: AI基础, AI基础数学
 type:
