@@ -2,7 +2,7 @@
 layout: wiki
 title: 积分
 cate1: AI基础-数学
-cate2: 微积分
+cate2: 3-微积分
 description: AI基础数学-积分
 keywords: AI基础, AI基础数学
 type:
