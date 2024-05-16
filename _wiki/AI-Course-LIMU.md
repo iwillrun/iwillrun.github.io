@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: BOOK：李沐-动手学深度学习
-cate1: AI-系统学习课程
+cate1: AI系统学习课程
 cate2: 2-李沐的深度学习课程
 description: 李沐深度学习全课程
 keywords: AI教程, 李沐，深度学习，机器学习，AI视频教程，AI推荐书籍
