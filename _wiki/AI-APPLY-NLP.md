@@ -1,8 +1,8 @@
 ---
 layout: wiki
 title: NLP应用大全
-cate1: AI应用-NLP领域
-cate2: 1-NLP
+cate1: AI应用-传统领域
+cate2: 1-文本领域：NLP
 description: AI在NLP领域的应用
 keywords: AI教程, NLP，NLP学习，NLP原理，NLP应用，NLP算法
 type:
