@@ -1,10 +1,10 @@
 ---
 layout: wiki
 title: 向量空间
-cate1:AI基础-
-cate2:
-description: some word here
-keywords: keyword1, keyword2
+cate1: AI基础-数学
+cate2: 线性代数
+description: AI基础数学-向量空间
+keywords: AI基础, AI基础数学
 type:
 link:
 mermaid: false
