@@ -15,9 +15,12 @@ mindmap: false
 mindmap2: false
 ---
 
-# Python在AI学习中的应用
+## Python在AI学习中的应用
 
 Python是一种高级编程语言，以其简洁的语法和强大的库支持而闻名。在人工智能（AI）的学习和实践中，Python扮演着至关重要的角色。它不仅易于学习和使用，而且拥有丰富的库和工具，非常适合进行数据分析、机器学习和深度学习等AI相关任务。
+
+## python 0基础请先学习python编程课程：[菜鸟教程：Python 基础教程](https://www.runoob.com/python/python-tutorial.html)
+
 
 ## 理论知识
 
