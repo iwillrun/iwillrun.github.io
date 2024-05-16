@@ -2,7 +2,7 @@
 layout: wiki
 title: 矩阵理论
 cate1: AI基础-数学
-cate2: 线性代数
+cate2: 1-线性代数
 description: AI基础数学-矩阵理论
 keywords: AI基础, AI基础数学
 type:
