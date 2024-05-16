@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 向量空间
+title: 方差
 cate1: AI基础-数学
 cate2: 概率论
-description: AI基础数学-向量空间
+description: AI基础数学-方差
 keywords: AI基础, AI基础数学
 type:
 link:
