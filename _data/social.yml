@@ -1,10 +1,10 @@
-- sitename: GitHub
-  name: iwillrun
-  url: https://github.com/iwillrun
+- sitename: Email
+  name: zhaoyonghe1949@outlook.com
+  url: mailto:zhaoyonghe1949@outlook.com
 
-#- sitename: 掘金
-#  name: mzlogin
-#  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+- sitename: wechat
+  name: Serendipity
+  url: https://github.com/iwillrun/iwillrun.github.io/blob/master/assets/images/qrcode.jpg
 
 #- sitename: LinkedIn
 #  name: mazhuang
