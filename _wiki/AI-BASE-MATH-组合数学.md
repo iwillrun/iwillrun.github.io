@@ -2,7 +2,7 @@
 layout: wiki
 title: 组合数学
 cate1: AI基础-数学
-cate2: 离散数学
+cate2: 4-离散数学
 description: AI基础数学-组合数学
 keywords: AI基础, AI基础数学
 type:
