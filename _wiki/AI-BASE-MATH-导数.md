@@ -2,7 +2,7 @@
 layout: wiki
 title: 导数
 cate1: AI基础-数学
-cate2: 微积分
+cate2: 3-微积分
 description: AI基础数学-导数
 keywords: AI基础, AI基础数学
 type:
