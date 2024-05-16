@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: 向量空间
+title: AI必备编程语言-python-菜鸟教程
 cate1: AI基础-编程语言
 cate2: 
 description: AI基础-编程语言
