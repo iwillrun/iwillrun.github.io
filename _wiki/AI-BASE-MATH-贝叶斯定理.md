@@ -2,7 +2,7 @@
 layout: wiki
 title: 贝叶斯定理
 cate1: AI基础-数学
-cate2: 概率论
+cate2: 2-概率论
 description: AI基础数学-贝叶斯定理
 keywords: AI基础, AI基础数学
 type:
