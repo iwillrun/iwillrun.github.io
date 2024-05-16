@@ -1,9 +1,9 @@
 ---
 layout: wiki
-title: 向量空间
+title: 贝叶斯定理
 cate1: AI基础-数学
 cate2: 概率论
-description: AI基础数学-向量空间
+description: AI基础数学-贝叶斯定理
 keywords: AI基础, AI基础数学
 type:
 link:
