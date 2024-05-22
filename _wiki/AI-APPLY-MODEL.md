@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: GPT-4 LLAma3 Gemini Gemma Mistral 通义千问 KIMI Deepseek
+title: ●GPT-4  ●LLAma3  ●Gemini  ●Gemma  ●Mistral  ●通义千问  ●KIMI  ●Deepseek
 cate1: AI应用-大模型
 cate2: 1-文本大模型
 description: 文本大模型介绍
