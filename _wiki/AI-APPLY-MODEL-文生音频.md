@@ -1,6 +1,6 @@
 ---
 layout: wiki
-title: DALL-E
+title: SUNO
 cate1: AI应用-大模型
 cate2: 3-文生音乐大模型
 description: 文生音乐大模型介绍
