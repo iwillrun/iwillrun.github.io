@@ -2,7 +2,7 @@
 layout: wiki
 title: DALL-E
 cate1: AI应用-大模型
-cate2: 2-文生音乐大模型
+cate2: 3-文生音乐大模型
 description: 文生音乐大模型介绍
 keywords: 文生音乐, SUNO，大模型音乐生成 AI音乐生成，midjourny
 type:
